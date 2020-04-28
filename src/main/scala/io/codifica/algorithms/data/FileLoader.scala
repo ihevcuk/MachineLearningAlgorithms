@@ -1,6 +1,7 @@
-package io.codifica.tennis.data
+package io.codifica.algorithms.data
 
 import breeze.linalg.DenseMatrix
+
 import scala.io.{BufferedSource, Source}
 
 object FileLoader {

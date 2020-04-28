@@ -1,4 +1,4 @@
-package io.codifica.tennis.data
+package io.codifica.algorithms.data
 
 object FeaturesAndOutcomeSet {
   def apply(dataset: Matrix): FeaturesAndOutcomeSet = {

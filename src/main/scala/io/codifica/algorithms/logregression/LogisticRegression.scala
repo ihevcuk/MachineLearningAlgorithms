@@ -3,7 +3,8 @@ package io.codifica.algorithms.logregression
 import breeze.linalg.{DenseMatrix, DenseVector, sum}
 import breeze.numerics.{log, pow, sigmoid}
 import breeze.optimize.{DiffFunction, LBFGS}
-import io.codifica.tennis.data.{Matrix, FeaturesAndOutcomeSet}
+import io.codifica.algorithms.data.{FeaturesAndOutcomeSet, Matrix}
+import io.codifica.tennis.data.Matrix
 
 class LogisticRegression() {
 

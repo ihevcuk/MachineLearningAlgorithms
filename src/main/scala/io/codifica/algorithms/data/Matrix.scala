@@ -1,4 +1,4 @@
-package io.codifica.tennis.data
+package io.codifica.algorithms.data
 
 import breeze.linalg.{DenseMatrix, DenseVector}
 

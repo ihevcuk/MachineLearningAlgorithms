@@ -1,8 +1,8 @@
-package io.codifica.tennis
+package io.codifica.algorithms
 
 import breeze.linalg.sum
 import breeze.numerics.abs
-import io.codifica.tennis.data.{Matrix, FileLoader, Fold, FeaturesAndOutcomeSet, TrainingAndTestSet}
+import io.codifica.algorithms.data.{FileLoader, Matrix}
 import io.codifica.algorithms.logregression.LogisticRegression
 
 object Main extends App {

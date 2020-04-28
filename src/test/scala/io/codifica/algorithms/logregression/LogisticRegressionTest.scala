@@ -1,7 +1,7 @@
 package io.codifica.algorithms.logregression
 
 import breeze.linalg.{DenseMatrix, DenseVector}
-import io.codifica.tennis.data.Matrix
+import io.codifica.algorithms.data.Matrix
 import org.junit.Test
 import org.junit.Assert._
 
