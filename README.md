@@ -5,7 +5,7 @@ Implementation is based on Coursera course "Machine learning". Algorithm tries t
 
 ### Details
 1. Separate .csv file to training and test set
-2. Group training set in N groups of training set and cross validation set
+2. Further separate group training set in N groups of training set and cross validation set
 3. Use optimization functions to get optimal parameters
 4. Use parameters on test set to predict if player won the match
 
